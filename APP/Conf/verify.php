@@ -2,7 +2,7 @@
   return array(
 
 	//验证码长度
-	'VERIFY_LENGTH'=> 5,
+	'VERIFY_LENGTH'=> 1,
 	//验证码图片宽度(像素)
 	'VERIFY_WIDTH'=> 265,
 	//验证码图片高度(像素)
